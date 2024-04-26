@@ -1,1 +1,3 @@
 this file contains some information about what i learn in the internship
+we started with creating a github account
+then creating repo,feature
