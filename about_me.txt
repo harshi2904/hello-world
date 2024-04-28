@@ -1,3 +1,5 @@
 this file contains some information about what i learn in the internship
 we started with creating a github account
 then creating repo,feature
+now incrementally update this file
+give tags after every updates
